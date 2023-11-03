@@ -12,3 +12,5 @@ It is better to create a virtual environment for the project.
 To run the project first change your working directory to the project folder and then run `python hunter.py`
 
 Run the project in the admin admin account just to be safe.
+
+NOTE: Make sure that the google chrome executable is in the `Program Files` directory. In some computers it might be there in the `Program Files (x86) directory`. If this is the case just copy the folder titled `Google` to `Program Files`
