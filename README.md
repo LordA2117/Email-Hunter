@@ -1,2 +1,12 @@
 # Email-Hunter
-Email Hunter made for fun. Uses selenium web driver and it doesn't open a browser in headless mode/
+
+Email Hunter uses selenium to find emails in a specific website.
+
+To setup the project:
+* Run `git clone https://github.com/LordA2117/Email-Hunter.git`
+* `cd Email-hunter.git`
+* `pip install -r requirements.txt`
+
+It is better to create a virtual environment for the project.
+
+To run the project first change your working directory to the project folder and then run `python hunter.py`
