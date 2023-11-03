@@ -10,3 +10,5 @@ To setup the project:
 It is better to create a virtual environment for the project.
 
 To run the project first change your working directory to the project folder and then run `python hunter.py`
+
+Run the project in the admin admin account just to be safe.
