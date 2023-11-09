@@ -5,7 +5,7 @@ Email Hunter uses selenium to find emails in a specific website.
 To setup the project:
 * Run `git clone https://github.com/LordA2117/Email-Hunter.git`
 * `cd Email-hunter.git`
-* `pip install selenium chromedriver_autoinstaller geckodriver_autoinstaller termcolor`
+* `pip install -r requirements.txt`
 
 It is better to create a virtual environment for the project.
 
