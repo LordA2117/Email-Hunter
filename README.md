@@ -14,3 +14,5 @@ To run the project first change your working directory to the project folder and
 Run the project in the admin admin account just to be safe.
 
 NOTE: Make sure that the google chrome executable is in the `Program Files` directory. In some computers it might be there in the `Program Files (x86) directory`. If this is the case just copy the folder titled `Google` to `Program Files`
+
+## THE GUI IS MADE FOR USE WITH GOOGLE CHROME ONLY. USE THE TERMINAL FOR MORE VERSATILITY
