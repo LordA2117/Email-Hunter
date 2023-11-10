@@ -11,9 +11,9 @@ function submitItems(){
 }
 
 function clearResults(){
-  p_tags = document.getElementsByTagName("p");
-  for (let i = 0; i < p_tags.length; i ++){
-    p_tags[i].parentNode.removeChild(p_tags[i]);
+  emails_divs = document.getElementsByClassName("emails");
+  for (let i = 0; i < emails_divs.length; i ++){
+    emails_divs[i].parentNode.removeChild(emails_divs[i]);
   }
 }
 
